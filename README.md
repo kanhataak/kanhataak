@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there I'm Kanhaiya Kuamr👋
 
-<!--
-**kanhataak/kanhataak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Getting Better at Data Science, Business Analytics, Vision, NLP Day by Day !
+* I’m currently exploring the thnigs in Deep Learning, Computer Vision and NLP
+* How to reach me: kanhataak97@gmail.com
+* LinkedIn: https://www.linkedin.com/in/kanhaiya-k-835ab418b/
+* Instagram: https://www.instagram.com/expertindia843/
 
-Here are some ideas to get you started:
+## Skills
+* Data Science
+* Deep Learning
+* Computer Vision
+* Machine Learning
+* NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+* Master's in Computer Science(MSc-cs)
+
+I’m looking to collaborate on developing anything that will help us, always ready to learing things...
