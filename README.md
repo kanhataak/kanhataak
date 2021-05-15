@@ -12,6 +12,8 @@
 * Computer Vision
 * Machine Learning
 * NLP
+* MYSQL
+* MongoDB
 
 ## Education
 * Master's in Computer Science(MSc-cs)
