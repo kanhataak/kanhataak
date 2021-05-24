@@ -10,17 +10,19 @@
 <br/>
 
 ## Skills
-* Data Science
-* Deep Learning
-* Computer Vision
-* Machine Learning
-* NLP
-* MYSQL
-* MongoDB
+- Data Science
+- Deep Learning
+- Computer Vision
+- Machine Learning
+- NLP
+- MYSQL
+- MongoDB
 <br/>
+
 ## Education
-* Master's in Computer Science(MSc-cs)
-* <br/>
+- Master's in Computer Science(MSc-cs)
+<br/>
+
 ## Languages, Libraries and Frameworks used :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML" width="45px" src="https://w7.pngwing.com/pngs/363/9/png-transparent-html-computer-icons-html-css-angle-text-logo-thumbnail.png" />
@@ -39,10 +41,20 @@
 <br />
 
 ## Connect me on :
-## Connect me on :
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 [linkedin]: https://www.linkedin.com/in/kanhaiya-k-835ab418b/
 [gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kanhataak97@gmail.com.com&su=SUBJECT&body=BODY&tf=1
+<br/>
+<br/>
+```
+Keep little bit of EGO and
+Attitude always in your
+pockets,
+so that you can use it when
+your self-respect and
+sentiments are tested by
+people... !!😀
+```
