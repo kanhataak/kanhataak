@@ -39,5 +39,10 @@
 <br />
 
 ## Connect me on :
+## Connect me on :
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+
 [linkedin]: https://www.linkedin.com/in/kanhaiya-k-835ab418b/
 [gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kanhataak97@gmail.com.com&su=SUBJECT&body=BODY&tf=1
