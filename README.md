@@ -9,16 +9,6 @@
 <br/>
 <br/>
 
-## Skills
-- Data Science
-- Deep Learning
-- Computer Vision
-- Machine Learning
-- NLP
-- MYSQL
-- MongoDB
-<br/>
-
 ## Education
 - Master's in Computer Science(MSc-cs)
 <br/>
