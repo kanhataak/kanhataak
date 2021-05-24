@@ -1,6 +1,6 @@
 ## Hallo there I'm Kanhaiya Kuamr👋
 
-<img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
+<img align='right' src="https://github.com/kanhataak/iris_prediction_with-tkinter-GUI/blob/master/profilePhoto.jpg" width="210">
 
 - Getting Better at Data Science, Business Analytics, Vision, NLP Day by Day !
 - I’m looking to collaborate on developing anything that will help us, always ready to learing things...
