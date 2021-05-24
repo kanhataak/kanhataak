@@ -35,7 +35,6 @@
 <img align="left" alt="PyCharm" width="40px" src="https://external-preview.redd.it/68RuLLrsBdxbVJLxm3py3YoK6zX0aPIv3qttEhkb0_4.jpg?auto=webp&s=e2c12b1dc5be819f2f076f46454912a3c4bc3f2d"/>
 <img align="left" alt="Jupyter" width="40px" src="https://avatars1.githubusercontent.com/u/25869250?s=200&v=4" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png&imgrefurl=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FhhJTmmh_png-transparent-mongodb-icon-mongodb-logo-png-download%2F&tbnid=34wO4hYg1NcSmM&vet=12ahUKEwj_sdbEg-LwAhXDpOkKHWIWCKYQMygHegUIARDCAQ..i&docid=PNO6mdKc8FiljM&w=860&h=906&q=mongodb%20png&ved=2ahUKEwj_sdbEg-LwAhXDpOkKHWIWCKYQMygHegUIARDCAQ" />
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
