@@ -1,11 +1,10 @@
-## Hallo there I'm Kanhaiya Kuamr👋
+## Hallo there I'm Kanhaiya👋
 
 <img align='right' src="https://github.com/kanhataak/iris_prediction_with-tkinter-GUI/blob/master/profilePhoto.jpg" width="210" height="220">
 
-- Getting Better at Data Science, Business Analytics, Vision, NLP Day by Day !
-- I’m looking to collaborate on developing anything that will help us, always ready to learing things...
-- I’m currently exploring the thnigs in Deep Learning, Computer Vision and NLP
-- 🤝🏻 I'm open for collaborations on any projects in **Data Science** (**Machine Learning** | **Computer Vision** | **Natural Language Processing** | **OCR** | **Data Analysis**)
+- I’m a Data Engineer with 3+ years of experience transforming raw data into meaningful insights. My expertise lies in building scalable and efficient data pipelines using Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse architecture.
+- I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
+- 🤝🏻 I'm open for collaborations on any projects in **Data Engineering** (**PySpark** | **Azure Data Factory** | **Datalake** | **Databases** | **Data Analytics**)
 <br/>
 <br/>
 
@@ -15,7 +14,7 @@
 
 ## Languages, Libraries and Frameworks used :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML" width="45px" src="https://w7.pngwing.com/pngs/363/9/png-transparent-html-computer-icons-html-css-angle-text-logo-thumbnail.png" />
+<img align="left" alt="Spark" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="Flask" width="60px"src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png"/>
 <img align="left" alt="tf2" width="30px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
 <img align="left" alt="keras" width="70px" src="https://camo.githubusercontent.com/906e661107a3bc03104ca5d88336d1f4b0e80fdcac65efaf7904041d371c747f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67"/>
