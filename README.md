@@ -17,7 +17,7 @@
 <img align="left" alt="Spark" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="Azure" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
 <img align="left" alt="tf2" width="45px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
-<img align="left" alt="ADF" width="70px" src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png"/>
+<img align="left" alt="ADF" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbQDQHWjzYaUt7G-V9yamUtfFMycXokpBcUeAoTvq1HDMQVg7QDVWit0&s"/>
 <img align="left" alt="Detectron2" width="100px" src="https://images.seeklogo.com/logo-png/32/1/microsoft-azure-logo-png_seeklogo-326269.png" />
 <img align="left" alt="YOLO" width="50px" src="https://i.pinimg.com/originals/c8/4c/d6/c84cd6231804a0759dce57bce4bef01a.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
