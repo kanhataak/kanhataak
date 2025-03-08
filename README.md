@@ -30,7 +30,7 @@
 
 ## Connect me on :
 [<img align="left" alt="LinkedIn" width="30px" src="https://banner2.cleanpng.com/20180529/str/avpsm7w6e.webp" />][linkedin]
-# [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 [linkedin]: https://www.linkedin.com/in/kanhaiya-k-835ab418b/
