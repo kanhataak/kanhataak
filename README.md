@@ -17,9 +17,9 @@
 <img align="left" alt="Spark" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="Azure" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
 <img align="left" alt="tf2" width="45px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
-<img align="left" alt="ADF" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbQDQHWjzYaUt7G-V9yamUtfFMycXokpBcUeAoTvq1HDMQVg7QDVWit0&s"/>
+<img align="left" alt="Synapse" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbQDQHWjzYaUt7G-V9yamUtfFMycXokpBcUeAoTvq1HDMQVg7QDVWit0&s"/>
 <img align="left" alt="Detectron2" width="100px" src="https://images.seeklogo.com/logo-png/32/1/microsoft-azure-logo-png_seeklogo-326269.png" />
-<img align="left" alt="YOLO" width="50px" src="https://i.pinimg.com/originals/c8/4c/d6/c84cd6231804a0759dce57bce4bef01a.png" />
+<img align="left" alt="ADF" width="50px" src="https://www.google.com/imgres?q=azure%20data%20services%20logo&imgurl=https%3A%2F%2Fcms.cdata.com%2Fmedia%2F2rabxtck%2Fazure-data-factory.png&imgrefurl=https%3A%2F%2Fwww.cdata.com%2Fblog%2Fwhat-is-azure-data-factory&docid=CmyT53uItxtUGM&tbnid=IABzpEqL2-jDxM&vet=12ahUKEwifsZ76k_qLAxVoyTgGHZ3dMx4QM3oECG0QAA..i&w=900&h=735&hcb=2&ved=2ahUKEwifsZ76k_qLAxVoyTgGHZ3dMx4QM3oECG0QAA" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="PyCharm" width="40px" src="https://external-preview.redd.it/68RuLLrsBdxbVJLxm3py3YoK6zX0aPIv3qttEhkb0_4.jpg?auto=webp&s=e2c12b1dc5be819f2f076f46454912a3c4bc3f2d"/>
 <img align="left" alt="Jupyter" width="40px" src="https://avatars1.githubusercontent.com/u/25869250?s=200&v=4" />
