@@ -16,9 +16,9 @@
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Spark" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="Azure" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
-<img align="left" alt="ADB" width="45px" src="https://images.seeklogo.com/logo-png/48/1/azure-databricks-logo-png_seeklogo-488344.png"/>
+<img align="left" alt="ADB" width="45px" src="https://cdn.thenewstack.io/media/2022/04/d5859667-databricks-logo-e1687961608447.png"/>
 <img align="left" alt="Synapse" width="70px" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png"/>
-<img align="left" alt="DataWarehouse" width="100px" src="https://symbols.getvecta.com/stencil_27/40_data-warehouse.98ec68517c.svg" />
+<img align="left" alt="DataWarehouse" width="50px" src="https://symbols.getvecta.com/stencil_27/40_data-warehouse.98ec68517c.svg" />
 <img align="left" alt="ADF" width="50px" src="https://symbols.getvecta.com/stencil_28/27_data-factory.8004c08598.svg" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="PyCharm" width="40px" src="https://external-preview.redd.it/68RuLLrsBdxbVJLxm3py3YoK6zX0aPIv3qttEhkb0_4.jpg?auto=webp&s=e2c12b1dc5be819f2f076f46454912a3c4bc3f2d"/>
