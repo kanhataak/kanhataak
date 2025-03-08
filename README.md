@@ -39,8 +39,7 @@
 <br/>
 ```
 Keep little bit of EGO and
-Attitude always in your
-pockets,
+Attitude always in your pockets,
 so that you can use it when
 your self-respect and
 sentiments are tested by
