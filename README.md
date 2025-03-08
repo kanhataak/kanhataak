@@ -15,7 +15,7 @@
 ## Languages, Libraries and Frameworks used :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Spark" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-<img align="left" alt="Synapse" width="60px"src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png"/>
+<img align="left" alt="Synapse" width="60px" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png" />
 <img align="left" alt="tf2" width="30px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
 <img align="left" alt="ADF" width="70px" src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png"/>
 <img align="left" alt="Detectron2" width="100px" src="https://images.seeklogo.com/logo-png/32/1/microsoft-azure-logo-png_seeklogo-326269.png" />
